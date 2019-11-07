@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="table1">92e3301c534100103924ddeeff7b129f</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter/>
         <hint/>
@@ -15,26 +17,31 @@
         <name>x_xttnydemprep1_table1</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
+        <populate_view/>
         <query/>
         <report/>
         <roles>x_xttnydemprep1.table1_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-07 02:26:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>d6e3301c534100103924ddeeff7b12bb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>table1s</sys_name>
         <sys_overrides/>
         <sys_package display_value="xttnydemprep1" source="x_xttnydemprep1">6763f4d8534100103924ddeeff7b1201</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="xttnydemprep1">6763f4d8534100103924ddeeff7b1201</sys_scope>
         <sys_update_name>sys_app_module_d6e3301c534100103924ddeeff7b12bb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-11-07 02:26:32</sys_updated_on>
         <timeline_page/>
         <title>table1s</title>
+        <u_notes/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
