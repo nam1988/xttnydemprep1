@@ -3,5 +3,6 @@
     <element label="table1" max_length="40" name="x_xttnydemprep1_table1" type="collection">
         <element label="col1" max_length="40" name="col1" type="string"/>
         <element label="Col2" max_length="40" name="col2" type="string"/>
+        <element label="Col3" max_length="40" name="col3" type="string"/>
     </element>
 </database>
